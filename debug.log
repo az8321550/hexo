@@ -1,0 +1,16 @@
+date: "2014-08-14 11:32:57.611"
+argv: "node F:\\Users\\nobody123\\AppData\\Roaming\\npm\\node_modules\\hexo\\bin\\hexo d"
+os: Windows_NT 6.2.9200 win32 ia32
+versions:
+  http_parser: "1.0"
+  node: 0.10.29
+  v8: 3.14.5.9
+  ares: 1.9.0-DEV
+  uv: 0.10.27
+  zlib: 1.2.3
+  modules: "11"
+  openssl: 1.0.1h
+  hexo: 2.8.2
+---
+[debug] 11:32:57.250 Config file loaded from D:\hexo\_config.yml[debug] 11:32:57.252 Version info checked successfully[debug] 11:32:57.286 Loading database.[debug] 11:32:57.336 Processed: page.md (1ms)[debug] 11:32:57.336 Processed: draft.md (2ms)[debug] 11:32:57.336 Processed: photo.md (1ms)[debug] 11:32:57.336 Processed: post.md (1ms)[debug] 11:32:57.357 Plugin loaded successfully: hexo-renderer-ejs[debug] 11:32:57.376 Plugin loaded successfully: hexo-renderer-marked[debug] 11:32:57.544 Plugin loaded successfully: hexo-renderer-stylus[debug] 11:32:57.546 Script load successfully: fancybox.js[info] 11:32:57.547 Start deploying: github[info] 11:32:57.550 Clearing .deploy folder...[info] 11:32:57.575 Copying files from public folder...[error] 11:32:57.583 Error: EPERM, mkdir 'D:\hexo\.deploy\css'
+Error: EPERM, mkdir 'D:\hexo\.deploy\css'
